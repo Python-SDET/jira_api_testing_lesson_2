@@ -10,6 +10,6 @@
   a. Add code to __init__.py to locate jira_info file.  This helps prevent file not found errors.  
   b. Place the issue_input.yaml in this package to load for needed json to pass.  
   c. Make a class to organize transactions by entity:  Project, Issue, Sprint, etc. 
-  d. The constructor of each inner class will contain the url that points to each entity
+  d. The constructor of each inner class will contain the url that points to each entity  
   e. Notice that the parent class needs to be passed to the inner class to bind them together  
   
