@@ -1,5 +1,7 @@
 "# jira_api_testing_lesson_2" 
 
+This is a tutorial repository associated with the following YouTube video: https://www.youtube.com/watch?v=eWR49de-RrA  
+
 1) Make a package for the API wrapper layer  
   a. Add code to __init__.py to locate jira_info file.  This helps prevent file not found errors.  
   b. Pass json instead of getting it from file  
